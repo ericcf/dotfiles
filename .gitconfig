@@ -1,0 +1,5 @@
+[user]
+        name = Eric Carty-Fickes
+        email = ericcf@northwestern.edu
+[core]
+        excludesfile = /Users/ericcf/.gitignore_global
